@@ -1,0 +1,1 @@
+web: node ./azure-stt-and-bot-application-v1.js
